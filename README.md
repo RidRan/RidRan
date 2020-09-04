@@ -1,8 +1,8 @@
 ## My Links:
 
-..* [LinkedIn](https://www.linkedin.com/in/riddock-moran-b74657171/ "My LinkedIn")
+* [LinkedIn](https://www.linkedin.com/in/riddock-moran-b74657171/ "My LinkedIn")
 
-..* [GitHub](github.com/RidRan "My GitHub... Meta")
+* [GitHub](github.com/RidRan "My GitHub... Meta")
 
 
 <!--
